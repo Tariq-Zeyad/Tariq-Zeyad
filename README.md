@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **YOUR NAME**
+# Hi there 👋 I'm **Tariq Zeyad**
 
 🚀 **Frontend React Developer | ML/AI Enthusiast | Data Analysis | Python & Java Developer**
 💡 Passionate about building modern web apps, intelligent systems, and clean scalable code.
