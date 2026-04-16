@@ -38,9 +38,7 @@
 ## 🌍 Connect With Me
 
 * 📫 Email: **[tariqkhashan0@gmail.com](mailto:tariqkhashan0@gmail.com)**
-* 💼 LinkedIn: **your-linkedin**
-* 🌐 Portfolio: **your-portfolio-link**
 
----
 
-✨ *"Code smart. Analyze data. Build intelligent experiences."
+
+
