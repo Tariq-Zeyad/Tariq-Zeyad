@@ -1,6 +1,7 @@
+
 # Hi there 👋 I'm **Tariq Zeyad**
 
-🚀 **Frontend React Developer | ML/AI Enthusiast | Data Analysis | Python & Java Developer**
+🚀 **Frontend React Developer | Flutter Developer | ML/AI Enthusiast | Data Analysis | Python, Dart & Java Developer**
 💡 Passionate about building modern web apps, intelligent systems, and clean scalable code.
 🌱 Currently learning more about **AI applications, deep learning, data analysis workflows, and advanced frontend architecture**.
 
@@ -9,6 +10,7 @@
 ## 🧠 About Me
 
 * 💻 Specialized in **Frontend Development with React**
+* 📱 Building cross-platform mobile apps with **Flutter & Dart**
 * 🤖 Interested in **Machine Learning, AI, and Data Analysis projects**
 * 🐍 Strong with **Python** for automation, data, and ML
 * ☕ Comfortable building applications using **Java**
@@ -18,12 +20,14 @@
 
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
 ### 📊 Data Analysis & ML / AI
 
@@ -36,9 +40,8 @@
 ---
 
 ## 🌍 Connect With Me
-
 * 📫 Email: **[tariqkhashan0@gmail.com](mailto:tariqkhashan0@gmail.com)**
-
-
+* 📸 Instagram: **[https://instagram.com/tariq_zeyad12](https://instagram.com/tariq_zeyad12)**
+* 📘 Facebook: **[https://www.facebook.com/tariq.zeyad.2212](https://www.facebook.com/tariq.zeyad.2212)**
 
 
