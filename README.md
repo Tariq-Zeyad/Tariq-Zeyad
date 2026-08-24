@@ -81,7 +81,7 @@ Through this project, I am gaining practical experience in Kotlin programming, a
 
 ## Connect With Me
 
-- LinkedIn: [Tariq Zeyad](https://www.linkedin.com/in/tariq-zeyad/)
+- LinkedIn: [Tariq Zeyad](https://www.linkedin.com/in/tariq-zeyad-a6025740b/)
 - Email: [tariqkhashan0@gmail.com](mailto:tariqkhashan0@gmail.com)
 - Instagram: [@tariq_zeyad12](https://instagram.com/tariq_zeyad12)
 - Facebook: [Tariq Zeyad](https://www.facebook.com/tariq.zeyad.2212)
